@@ -6,6 +6,8 @@
 
 ![José Victor' GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorlp08&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorlp08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias
 
 <div display="inline_block">
