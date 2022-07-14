@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jos%C3%A9-victor-0434a914a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lopsvictor08/)
 
-![José Victor' GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorlp08&show_icons=true&theme=tokyonight)
+![José Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorlp08&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorlp08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
